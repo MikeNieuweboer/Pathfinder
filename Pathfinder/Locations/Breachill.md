@@ -1,3 +1,5 @@
+Gemeenschap en vriendschap is zeer belangrijk in deze stad
+
 # Breachill Archives
 Archive just across the town hall
 [[Characters#^characters1]]
@@ -24,7 +26,7 @@ High end tailoring business. Supplies to the highest ranking hellknights. [[Char
 
 
 # The great dreamhouse
-
+The largest temple to the goddess [[Desna]] with around 30 priests
 [[Characters#^characters1]]
 
 

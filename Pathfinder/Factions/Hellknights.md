@@ -1,0 +1,1 @@
+An order of knights who defend society from the wild and uncivilized forces found on the outskirts of the land. They value society above all else and will protect it no matter what.
